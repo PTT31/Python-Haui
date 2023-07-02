@@ -1,0 +1,11 @@
+import math
+print(math.trunc(3.2))
+print(math.fabs(3.2))
+print(math.gcd(3,43))
+print(math.lcm(32,3))
+print(math.ceil(3.2))
+print(math.floor(3.2))
+print(math.sqrt(3.2))
+print(math.sqrt(432))
+print(math.pi)
+print(math.log(213))
